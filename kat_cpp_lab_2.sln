@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kat_cpp_lab_2", "kat_cpp_lab_2.vcxproj", "{F59099D8-FD72-4965-B4E3-165C450D6FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Debug|x64.ActiveCfg = Debug|x64
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Debug|x64.Build.0 = Debug|x64
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Debug|x86.Build.0 = Debug|Win32
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Release|x64.ActiveCfg = Release|x64
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Release|x64.Build.0 = Release|x64
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Release|x86.ActiveCfg = Release|Win32
+		{F59099D8-FD72-4965-B4E3-165C450D6FFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2719314A-A787-44F7-B4C7-402BD2F35AE4}
+	EndGlobalSection
+EndGlobal
